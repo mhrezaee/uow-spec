@@ -1,2 +1,2 @@
 # uow-spec
-Combination of unit of work, Repository pattern and Specification pattern with EF core
+An implementation of unit of work, Repository pattern and Specification design pattern with EF core
